@@ -1,0 +1,64 @@
+# VS Code Extension Build Output
+out
+dist
+*.vsix
+
+# Node.js Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code Test Files
+.vscode-test/
+.vscode-test-web/
+
+# Flutter Build Output
+flutter_ui/build/
+flutter_ui/.dart_tool/
+flutter_ui/.flutter-plugins
+flutter_ui/.flutter-plugins-dependencies
+
+# Flutter/Dart Generated Files
+flutter_ui/.packages
+flutter_ui/pubspec.lock
+
+# IDE and Editor Files
+.vscode/settings.json
+.vscode/launch.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Coverage Reports
+coverage/
+*.lcov
+
+# Build Tools
+.webpack/
+
+# VS Code Extension Development
+extension.js.map
