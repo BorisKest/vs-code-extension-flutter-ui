@@ -1,6 +1,6 @@
 # Flutter Web VS Code Extension
 
-Example of an VS Code extension that uses Flutter web for its user interface.
+Example of a VS Code extension that uses Flutter web for its user interface.
 
 ## 🏗️ Architecture
 
